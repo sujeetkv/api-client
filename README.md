@@ -1,7 +1,7 @@
 # api-client
 Simple Client for API requests
 
-##How to use
+## How to use
 
 ```python
 from api_client import APIClient
